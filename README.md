@@ -1,3 +1,3 @@
-Instruction
+### Ejercicio taller de git
 
-Esta es otra modifiacion  2
+- Aprenderas muchas cosas 
